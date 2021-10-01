@@ -3,7 +3,6 @@ La clase principal está compuesta del metodo echo, a la que debemos introducir 
 y la clase nos saludará
 """
 
-
 class echo:
     
     def ObtenerNombre( nombre ):
@@ -12,3 +11,6 @@ class echo:
         
         #saludamos
         print("Hola "+ nombre +"es un placer conocerte")
+        
+        
+    
